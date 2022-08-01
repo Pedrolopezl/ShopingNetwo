@@ -115,6 +115,29 @@ body {
     padding: 13px 30px;
     border-radius: 32px;
 }
+.cte {
+    display: inline-block;
+    background-image: url('../images/hombrep.jpg');
+    justify-self: center;
+    color: rgb(82, 90, 129);
+    font-size: x-large;
+    font-style: inherit;
+    text-decoration: none;
+    padding: 50px 130px;
+    border-radius: 4px;
+}
+.cto {
+    display: inline-block;
+    background-image: url('../images/hombrec.jpg');
+    justify-self: center;
+    color: rgb(82, 90, 129);
+    font-size: x-large;
+    font-style: inherit;
+    text-decoration: none;
+    padding: 50px 140px;
+    border-radius: 4px;
+}
+
 
 /* About */
 
